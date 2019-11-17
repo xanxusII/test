@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+hello txt3
+=======
+hello txt5
+>>>>>>> origin/master
